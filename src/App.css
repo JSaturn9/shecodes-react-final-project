@@ -3,7 +3,14 @@
     margin: 30px auto;
     
 }
+
+.App .card {
+    background-image: linear-gradient(-225deg, #fffeff 0%, #d7fffe 100%);
+    border: 4px; 
+      
+}
 .App footer {
     font-size: 14px;
     margin: 10px 0;
+    font-family: "Oswald", sans-serif;
 }
