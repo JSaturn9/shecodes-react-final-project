@@ -8,7 +8,7 @@ export default function App() {
     </div>
      <footer>
        This project was coded by Joanna Saturn and is open-sourced on {""}
-     <a href="https://github.com/JSaturn9/shecodes-react-final-project" target= "_blank">GitHub</a> 
+     <a href="https://github.com/JSaturn9/shecodes-react-final-project" >GitHub</a> 
      </footer>
      </div>    
   );
